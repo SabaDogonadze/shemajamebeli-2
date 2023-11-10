@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shemajamebeli2</string>
+    <string name="enter_anagram">Enter Anagram</string>
+    <string name="save">Save</string>
+    <string name="output">OutPut</string>
+    <string name="anagrams_count">Anagrams Count</string>
+</resources>
